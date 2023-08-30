@@ -26,7 +26,7 @@
 
 # 📖 Rails Backend <a name="about-project"></a>
 
-This is an app for using Rails as a backend app
+This is an app for using Rails as a backend to be supported with [React](https://github.com/Daniel-Kigozi/hello-react-front-end) as a front end service
 
 ## 🛠 Built With <a name="built-with"></a>
 
